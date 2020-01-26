@@ -1,6 +1,5 @@
 /*
- * Name: Balrick Gill
- * Student number: 301309400
+ * Name: BG30
 */
 
 
